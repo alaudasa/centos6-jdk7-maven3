@@ -1,4 +1,4 @@
-8FROM centos:centos6
+FROM centos:centos6
 
 ### Upgrading system ###
 RUN yum install -y tar
